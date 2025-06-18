@@ -1,81 +1,87 @@
-👋 Hi there! I'm Kancharla Chandra Teja
-
-I'm a passionate and dedicated Full-Stack Developer with a strong interest in building dynamic, user-friendly web applications. I thrive at the intersection of design and functionality, always seeking to create seamless digital experiences that solve real-world problems.
-
-🌱 Currently, I’m diving deeper into technologies like HTML, CSS, JavaScript, React, and Django. I enjoy learning new frameworks and pushing the boundaries of what I can build.
-
-💡 Whether it’s crafting responsive UIs or architecting backend systems, I love transforming ideas into scalable and efficient applications.
-
-🤝 I'm always open to collaborating on exciting projects, especially those that challenge me to grow and contribute to something meaningful.
-
-📫 You can reach me at: tejakancharla77@gmail.com  
-🔗 Connect with me on LinkedIn: [linkedin.com/in/kancharlachandrateja](https://linkedin.com/in/kancharlachandrateja)  
-🌐 Explore my work: [https://chandra-new-portfolio.netlify.app](https://chandra-new-portfolio.netlify.app)
-
-😄 Pronouns: He/Him  
-⚡ Fun fact: I find debugging as exciting as coding — every bug is a puzzle waiting to be solved.
-
-
-
 <h1 align="center">👋 Hello, I'm Kancharla Chandra Teja</h1>
 
 <p align="center">
-  💻 Passionate Full-Stack Developer | 🌐 Tech Explorer | 🎯 Lifelong Learner  
+💻 Full-Stack & Python Developer | 🌐 Tech Explorer | 🚀 Eager to Collaborate & Grow  
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🚀 I'm an enthusiastic **Full-Stack Developer** with a keen interest in building interactive web applications.
-- 📚 Currently leveling up my skills in **HTML, CSS, JavaScript, React, Django, and JS frameworks**.
-- 💡 I love turning complex problems into elegant solutions through code.
-- 🤝 I'm open to collaborating on meaningful web development projects and startup ideas.
+I'm a passionate and results-driven **Full-Stack & Python Developer** with a strong desire to build dynamic, responsive, and scalable web applications. I thrive on solving problems, writing clean code, and building products that create meaningful user experiences.
+
+🔍 I’m actively **seeking full-time developer roles** where I can contribute to impactful projects, grow alongside experienced professionals, and help shape modern digital solutions.
+
+💡 With a strong foundation in Python and web development, I enjoy building everything from clean UIs to efficient backend systems and REST APIs. I believe in continuous learning and collaboration as key ingredients to great development.
 
 ---
 
-### 🌱 Technologies I’m Learning & Using
+### 🌱 Tech Stack & Tools
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📫 Let's Connect
+### 🧠 Currently Exploring
 
-- 📧 Email: `kancharlachandrateja@gmail.com`
-- 💼 LinkedIn: [linkedin.com/in/kancharlachandrateja](https://linkedin.com/in/kancharlachandrateja)
+- Advanced React and Django integration
+- REST APIs with Django & Python
+- Full-stack app architecture and deployment
+- Authentication & state management (Redux, JWT)
+- Clean code, best practices, and performance optimization
+
+---
+
+### 🔍 Actively Looking For
+
+I’m currently:
+- Seeking **Full-Stack Developer** or **Python Developer** roles (Remote or On-site)
+- Open to freelance and collaborative open-source projects
+- Ready to join a team where innovation, mentorship, and creativity thrive
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 Email: `tejakancharla77@gmail.com`
+- 💼 LinkedIn: [linkedin.com/in/kancharla-chandra-teja-711519278](https://www.linkedin.com/in/kancharla-chandra-teja-711519278)
 - 🌐 Portfolio: [https://chandra-new-portfolio.netlify.app](https://chandra-new-portfolio.netlify.app)
 
 ---
 
 ### 😄 Pronouns
 
-- He / Him
+He / Him
 
 ---
 
 ### ⚡ Fun Fact
 
-> I can spend hours debugging code and still enjoy every second — the thrill of solving it is unmatched!  
-> I also love designing UI with a developer’s precision.
+Debugging and building feel equally thrilling to me — every bug is a hidden puzzle, and every feature is a small innovation. I also enjoy designing visually pleasing UIs with a backend-first mindset.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codewithchandra123&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codewithchandra123&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Codewithchandra123&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codewithchandra123&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
 
+> 🌟 *“I don’t just code — I build, refine, and learn constantly. Open to exciting opportunities, challenges, and team missions that make an impact.”*
+
 <!---
-Codewithchandra123/Codewithchandra123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Codewithchandra123/Codewithchandra123 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
